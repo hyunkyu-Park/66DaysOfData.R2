@@ -13,5 +13,5 @@ This is a very simple challenge. There are only two requirements:
 
 __Day 1__
 
-  ㆍThe difference between Linear Regression and Logistic Regression lies in what happens after the above linear function has been calculated. In Linear Regression, we are done and the Linear function is going to be the output. In Logistic Regression, we take the result of the Linear function and apply the specific non-linear function called the sigmoid function to it.
+  ㆍThe difference between Linear Regression and Logistic Regression lies in what happens after the above linear function has been calculated. In Linear Regression, we are done and the Linear function is going to be the output. In Logistic Regression, we take the result of the Linear function and apply the specific non-linear function called the sigmoid function to it.  
   ㆍThe sigmoid function converts any number to value between 0 and 1. You can then use this to obtain a probability value.
