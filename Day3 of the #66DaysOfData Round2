@@ -1,0 +1,8 @@
+ㆍIn neural networks, we use slightly different terminology. Instead of coefficients we say weights.  
+Furthermore, the non-linear part of the model, which in the case of logistic regression was the sigmoid function, is called the activation function.  
+Neural networks are composed of 3 parts called Input layers, hidden layers, and output layers.  
+As I mentioned above, we call the function applied in the latter stage the activation function.  
+This crucial concept, non-linear activation function, contributes to making neural networks different from just big fat linear regression model.  
+ㆍ In hidden layer we also have a bias node which is not connected to the input nodes.  
+The purpose of the bias node is functionally the same with the intercept term is a linear regression.  
+It can shift the input coming from a layer to another layer by some constant value. 
