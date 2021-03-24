@@ -20,3 +20,13 @@ __Day 2__
 
   ㆍIt is important to realize that the most important factor in determining whether an application will be successful is often not which machine learning method you choose to use, but how you use it. The amount of the training data, the way the data is preprocessed and represented, the way the results are interpreted and applied. However, at some point the methods themselves may become the limiting factor. One such limit is the linearity of the model.  
   ㆍI have taught since last Thursday in Jincheon from elementary to high schools. I could feel that children are pretty exposed to AI but they barely aware they live with AI. In addition, students are very interested in learning and understanding AI than I thought they are. I think it's a good sign.
+
+
+__Day 3__
+
+ㆍIn neural networks, we use slightly different terminology. Instead of coefficients we say weights.  
+Furthermore, the non-linear part of the model, which in the case of logistic regression was the sigmoid function, is called the activation function. Neural networks are composed of 3 parts called Input layers, hidden layers, and output layers. As I mentioned above, we call the function applied in the latter stage the activation function. This crucial concept, non-linear activation function, contributes to making neural networks different from just big fat linear regression model.   
+ㆍ In hidden layer we also have a bias node which is not connected to the input nodes. The purpose of the bias node is functionally the same with the intercept term is a linear regression. It can shift the input coming from a layer to another layer by some constant value.  
+ㆍPictures of elementary school classes.
+![수업](https://user-images.githubusercontent.com/68415173/112296907-9c6ac680-8cd8-11eb-9ee5-0d678c9b7814.jpg)
+![수업1](https://user-images.githubusercontent.com/68415173/112296917-9d9bf380-8cd8-11eb-9555-f00587700ee3.jpg)
