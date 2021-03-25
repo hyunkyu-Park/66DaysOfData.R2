@@ -30,3 +30,8 @@ Furthermore, the non-linear part of the model, which in the case of logistic reg
 ㆍPictures of elementary school classes.
 ![수업](https://user-images.githubusercontent.com/68415173/112296907-9c6ac680-8cd8-11eb-9ee5-0d678c9b7814.jpg)
 ![수업1](https://user-images.githubusercontent.com/68415173/112296917-9d9bf380-8cd8-11eb-9555-f00587700ee3.jpg)
+
+__Day 4__
+
+ㆍI read the overall article about deep learning. As I read about deep learning, the more I wondered what is meta-cognition. So I found and studied lectures on meta-cognition and 'Karl Dunker's problem' who asked questions about human scarcity. I used these new knowledge to High school who were not interested in AI and it was very effective.  
+ㆍI did a class satisfaction survey in today's class (elementary and high school), and I was very proud that the results came out better than I expected. It's a shame that we can't upload pictures together because we can't share the results of the survey.
