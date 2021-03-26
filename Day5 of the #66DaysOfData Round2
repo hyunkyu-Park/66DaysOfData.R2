@@ -1,0 +1,12 @@
+ㆍ In machine learning models, criteria are needed to determine how similar the actual and predicted values are, which is called the loss function.  
+ㆍ Models can be broadly divided into regression and classification. Loss functions can also be divided accordingly.  
+There are typical loss functions 'MAE', 'MSE', 'RMSE' for regression. On the other hand, we usually use cross-entropy for classification.   
+MAE(Mean Absolute Error): It is easy to understand the degree to which the entire data is learned.  
+However, Because absolute values are taken, it is difficult to determine how errors occur and whether they are negative or positive.  
+Also, it is difficult to collect optimal values because the distance traveled is constant even when it is close to the optimal value.  
+MSE(Mean Squared Error): It is the most commonly used loss function. Because of square, values smaller than 1 are becoming smaller and more are becoming larger.  
+This is a disadvantage because it can cause distortion of the value.  
+However, MSE is characterized by calculating the correct answer rate for other wrong answers in addition to the error of the correct answer rate for the actual value.  
+In addition, unlike MAE, it is easy to converge to the optimal value because the distance traveled changes differently as you approach the optimal value.
+
+​
