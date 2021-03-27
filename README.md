@@ -42,3 +42,11 @@ __Day 5__
 ㆍ Models can be broadly divided into regression and classification. Loss functions can also be divided accordingly. There are typical loss functions 'MAE', 'MSE', 'RMSE' for regression. On the other hand, we usually use cross-entropy for classification.  
 MAE(Mean Absolute Error): It is easy to understand the degree to which the entire data is learned. However, Because absolute values are taken, it is difficult to determine how errors occur and whether they are negative or positive. Also, it is difficult to collect optimal values because the distance traveled is constant even when it is close to the optimal value.  
 MSE(Mean Squared Error): It is the most commonly used loss function. Because of square, values smaller than 1 are becoming smaller and more are becoming larger. This is a disadvantage because it can cause distortion of the value. However, MSE is characterized by calculating the correct answer rate for other wrong answers in addition to the error of the correct answer rate for the actual value. In addition, unlike MAE, it is easy to converge to the optimal value because the distance traveled changes differently as you approach the optimal value.
+
+
+__Day 6__
+
+ㆍKey words of SVM(Support Vector Machine)  
+- Hyperplane: infinite number of hyperplanes exists in SVM. we need to find the best division of two classes. Margin must be large to find the most effective boundary.
+- Margin: The distance between the data point and the hyperplane. To be exact, the closest data of each class to the border.  
+- Kernal Trick: A kernel is a function that outputs real number by receiving x,y factors such as mistakes, functions, and vectors. The kernel trick is to use these kernel functions to view the data at a higher dimension.
