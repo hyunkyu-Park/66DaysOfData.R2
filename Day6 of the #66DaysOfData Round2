@@ -1,0 +1,5 @@
+ㆍKey words of SVM(Support Vector Machine)  
+- Hyperplane: infinite number of hyperplanes exists in SVM. we need to find the best division of two classes. Margin must be large to find the most effective boundary.  
+- Margin: The distance between the data point and the hyperplane. To be exact, the closest data of each class to the border.  
+- Kernal Trick: A kernel is a function that outputs real number by receiving x,y factors such as mistakes, functions, and vectors.  
+The kernel trick is to use these kernel functions to view the data at a higher dimension.
