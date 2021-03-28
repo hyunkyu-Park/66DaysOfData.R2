@@ -50,3 +50,10 @@ __Day 6__
 - Hyperplane: infinite number of hyperplanes exists in SVM. we need to find the best division of two classes. Margin must be large to find the most effective boundary.
 - Margin: The distance between the data point and the hyperplane. To be exact, the closest data of each class to the border.  
 - Kernal Trick: A kernel is a function that outputs real number by receiving x,y factors such as mistakes, functions, and vectors. The kernel trick is to use these kernel functions to view the data at a higher dimension.
+
+__Day 7__
+
+ㆍIn general, the first layer of the neural network that is directly processing the pixel-level data has to have at least as many parameters as there are pixels. Otherwise, some of the pixels aren't connect to anything and they will be ignored. The key insight in CNNs is the realization that even if there are millions of parameters related to the pixels of the input image, there doesn't necessarily have to be millions of different parameters. A CNN is composed of a collection or "bank" of so- called filters that are rectangular image patches much smaller than the original image. These filters are matched to different places on the image in a process that corresponds to the mathematical operation of convolution, hence the name CNN. In terms of the neural network architecture, each filter corresponds to a set of parameters that are used to multiply pixel values inside the rectangular patch. The same set of parameters is shared by different neurons that process inputs within different patches. The network can contain multiple convolutional layers: in the first layer, the patches contain pixels in the original image, and in the further layers, the patches contain outputs from the previous layer which is structured in a rectangular form just like the input image.  
+
+Video link : https://www.youtube.com/watch?v=DEcvz_7a2Fs&list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp&index=15
+![image](https://user-images.githubusercontent.com/68415173/112751638-f71e5e00-9009-11eb-9444-e108b9a66a9b.png)
