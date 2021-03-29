@@ -62,6 +62,6 @@ __Day 8__
 
 ㆍ As a matter of fact, I barely understand definition of the SVM yesterday. Now, however, I would like to say I almost understand the concept of the SVM. SVM is one of the traditional binary classification methods and is a classification technique for finding hyper-planes that can divide space into (N-1) dimensions. For example, A line can classify things in 2 dimensional space and A plane can classify things in 3 dimensional space. In here, the optimal boundary can be found through margins of SVM.  
 ![image](https://user-images.githubusercontent.com/68415173/112809967-8b91ca80-90b5-11eb-8894-b5bfe56297f8.png)
-[파이썬/머신러닝] SVM(Support Ve.. : 네이버블로그 (naver.com)
+https://blog.naver.com/winddori2002/221662413641
 Margin means the distances between each class or data located at the end of each class.  
 Support vector is the closest data from margin. In the figure above, the two data above the dotted line are Support vector. The reason why this is called a support vector is that it supports the hyperplane function because the position of the boundary (ultra plane) depends on the location of these data.
