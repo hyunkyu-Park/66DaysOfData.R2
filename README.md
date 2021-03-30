@@ -65,3 +65,8 @@ __Day 8__
 https://blog.naver.com/winddori2002/221662413641
 Margin means the distances between each class or data located at the end of each class.  
 Support vector is the closest data from margin. In the figure above, the two data above the dotted line are Support vector. The reason why this is called a support vector is that it supports the hyperplane function because the position of the boundary (ultra plane) depends on the location of these data.
+
+__Day 9__
+
+ㆍI solved the algorithm problem after a long time. It was about Brute Force and felt difficult. It's because I do not solved algorithm problems periodically.  
+ㆍI looked at GAN, CNN, and RNN and thought of ideas to do projects using deep learning. I would like to plan a project for the public good.
