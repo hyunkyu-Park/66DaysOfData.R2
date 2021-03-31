@@ -70,3 +70,12 @@ __Day 9__
 
 ㆍI solved the algorithm problem after a long time. It was about Brute Force and felt difficult. It's because I do not solved algorithm problems periodically.  
 ㆍI looked at GAN, CNN, and RNN and thought of ideas to do projects using deep learning. I would like to plan a project for the public good.
+
+
+__Day 10__
+
+ㆍAccording to Yann LeCun, founder of the CNN deep learning algorithm, Gan(Generative Adversarial Network) is the most interesting idea in the last ten years in machine learning.  
+![image](https://user-images.githubusercontent.com/68415173/113148768-37314b00-926d-11eb-81d8-888ba94d4e7a.png)
+In GAN, generator and discriminator are the main factors. The generator learns to deceive the discriminator, and vice versa, the discriminator continues to learn not to be deceived by the generator. At this point, We don't train two things separately, we train one by one in rotation.Through gan, black-and-white images can be changed to color photographs or night images to daytime images. In other words, you can look at it from the perspective of creating something that seems to be real.  
+ㆍCycle Gan is used when we do not have pair data such as dealing with Van Gogh's painting.  
+ㆍStack Gan is used to create picture based on text.
