@@ -79,3 +79,8 @@ __Day 10__
 In GAN, generator and discriminator are the main factors. The generator learns to deceive the discriminator, and vice versa, the discriminator continues to learn not to be deceived by the generator. At this point, We don't train two things separately, we train one by one in rotation.Through gan, black-and-white images can be changed to color photographs or night images to daytime images. In other words, you can look at it from the perspective of creating something that seems to be real.  
 ㆍCycle Gan is used when we do not have pair data such as dealing with Van Gogh's painting.  
 ㆍStack Gan is used to create picture based on text.
+
+__Day 11__
+
+ㆍWhile searching for sources for GAN, I learned about Professor Yann LeCun's NYU-deep learning lecture and I was going to study. However, I felt that it was still a little too much to follow the lecture, so I was able to find a lecture with a relatively low entry barrier called Deep Learning for All and started to learn.  
+ㆍInterestingly, the first lecture was not about machine learning or deep learning, but about Docker settings. I didn't download it because I have not used Docker and I thought it could be replaced by a Jupiter laptop or Google COLAB.
