@@ -84,3 +84,11 @@ __Day 11__
 
 ㆍWhile searching for sources for GAN, I learned about Professor Yann LeCun's NYU-deep learning lecture and I was going to study. However, I felt that it was still a little too much to follow the lecture, so I was able to find a lecture with a relatively low entry barrier called Deep Learning for All and started to learn.  
 ㆍInterestingly, the first lecture was not about machine learning or deep learning, but about Docker settings. I didn't download it because I have not used Docker and I thought it could be replaced by a Jupiter laptop or Google COLAB.
+
+__Day 12__
+
+ㆍAs a matter of fact, I literally did not have time to study..However, I watched second lecture of Deep Learning for All for 5 minutes which is the minimum time to keep promise of 66DaysOfData.  
+ㆍMachine learning is kind of SW. It is used to problems that human cannot manage all the options and number of cases.  
+-Spam filter: many rules  
+-Automatic driving: too many rules  
+ㆍMachine learning: 'Field of Study that gives computers the ability to learn without being explicitly programmed' Arthur Samuel(1959)
