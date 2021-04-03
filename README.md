@@ -101,7 +101,7 @@ __Day 13__
 a) Predicting final exam score based on time spent - regression  
 b) Pass/Non-pass based on time spent - binary classification  
 c) Letter grade(A, B, C, E and F) based on time spent - multi-label classification  
-​
+  
 ##ㆍUnsupervised Learning  
 - Google news grouping  
 - Word Clustering  
