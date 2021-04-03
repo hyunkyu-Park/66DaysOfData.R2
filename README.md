@@ -92,3 +92,16 @@ __Day 12__
 -Spam filter: many rules  
 -Automatic driving: too many rules  
 ㆍMachine learning: 'Field of Study that gives computers the ability to learn without being explicitly programmed' Arthur Samuel(1959)
+
+__Day 13__
+
+##ㆍSupervised Learning: Most common problem type in ML  
+- Learning with labeled samples(ex: Image labeling, Email spam filter)  
+- Type of supervised learning  
+a) Predicting final exam score based on time spent - regression  
+b) Pass/Non-pass based on time spent - binary classification  
+c) Letter grade(A, B, C, E and F) based on time spent - multi-label classification  
+​
+##ㆍUnsupervised Learning  
+- Google news grouping  
+- Word Clustering  
