@@ -105,3 +105,15 @@ c) Letter grade(A, B, C, E and F) based on time spent - multi-label classificati
 ##ㆍUnsupervised Learning  
 - Google news grouping  
 - Word Clustering  
+
+__Day 14__
+
+ㆍHypothsis of the Linear regression
+
+In formula, W is called Weight and b is called bias  
+- Cost:  The difference between real data and our hypothesis. In other words, it is called loss or error.  
+![image](https://user-images.githubusercontent.com/68415173/113508133-3f4cfb80-9589-11eb-9c6a-8054c82376a9.png)
+(https://en.wikipedia.org/wiki/Linear_regression#/media/File:Linear_least_squares_example2.png)
+
+However, the result of the formula is not always a positive number. Therefore, we need to square the error and give the average.
+Goal: Minimize cost
