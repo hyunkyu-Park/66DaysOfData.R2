@@ -1,0 +1,7 @@
+ㆍHypothsis of the Linear regression   
+In formula, W is called Weight and b is called bias
+
+- Cost:  The difference between real data and our hypothesis. In other words, it is called loss or error.
+However, the result of the formula is not always a positive number. Therefore, we need to square the error and give the average.  
+
+Goal: Minimize cost
