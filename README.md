@@ -117,3 +117,10 @@ In formula, W is called Weight and b is called bias
 
 However, the result of the formula is not always a positive number. Therefore, we need to square the error and give the average.
 Goal: Minimize cost
+
+__Day 15__
+
+ㆍTried simple linear regression in Tensorflow
+
+![p1](https://user-images.githubusercontent.com/68415173/113552742-8bec1180-9631-11eb-9ee8-9de15eacf3a8.png)
+![p2](https://user-images.githubusercontent.com/68415173/113552748-8db5d500-9631-11eb-99b0-a1ee1636f29d.png)
