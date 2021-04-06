@@ -124,3 +124,13 @@ __Day 15__
 
 ![p1](https://user-images.githubusercontent.com/68415173/113552742-8bec1180-9631-11eb-9ee8-9de15eacf3a8.png)
 ![p2](https://user-images.githubusercontent.com/68415173/113552748-8db5d500-9631-11eb-99b0-a1ee1636f29d.png)
+
+
+__Day 16__
+
+ㆍThe cost function is supposed be minimize to optimize our model. Indeed, gradient descent algorithm is appointed a lot to minimize cost function. It can be applied to more general function with many variables as well. 
+
+ㆍGradient descent algorithm starts with initail guesses and keeps changing W and b a little bit to try reduce cost(W,b). Each time you change the parameters, you select the gradient which reduces cost the most possible. Repeat and do until you converge to a local minimum.
+![formula](https://user-images.githubusercontent.com/68415173/113686748-91655c80-9702-11eb-98e6-2331edf9c1aa.png)
+
+In formula, α signify learning rate in ML. The range of changes in W depends on the value of alpha.
