@@ -133,4 +133,4 @@ __Day 16__
 ㆍGradient descent algorithm starts with initail guesses and keeps changing W and b a little bit to try reduce cost(W,b). Each time you change the parameters, you select the gradient which reduces cost the most possible. Repeat and do until you converge to a local minimum.
 ![formula](https://user-images.githubusercontent.com/68415173/113686748-91655c80-9702-11eb-98e6-2331edf9c1aa.png)
 
-In formula, α signify learning rate in ML. The range of changes in W depends on the value of alpha.
+In formula, α signifies learning rate in ML. The range of changes in W depends on the value of alpha.
