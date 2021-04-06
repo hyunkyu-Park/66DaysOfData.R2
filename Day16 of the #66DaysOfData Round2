@@ -1,0 +1,6 @@
+ㆍThe cost function is supposed be minimize to optimize our model.  
+Indeed, gradient descent algorithm is appointed a lot to minimize cost function.  
+It can be applied to more general function with many variables as well.  
+ㆍGradient descent algorithm starts with initail guesses and keeps changing W and b a little bit to try reduce cost(W,b).  
+Each time you change the parameters, you select the gradient which reduces cost the most possible. Repeat and do until you converge to a local minimum.  
+In formula, α signify learning rate in ML. The range of changes in W depends on the value of alpha.
