@@ -134,3 +134,7 @@ __Day 16__
 ![formula](https://user-images.githubusercontent.com/68415173/113686748-91655c80-9702-11eb-98e6-2331edf9c1aa.png)
 
 In formula, α signifies learning rate in ML. The range of changes in W depends on the value of alpha.
+
+__Day 17__
+
+ㆍMulti variable linear regression - Generally, Predicting with a variety of meaningful information is more accurate than predicting with just one piece of information. For example, predicting with single information such as study time could be barely accurate, but anticipating with multi variables such as previous test scores, study time would be more precise.
