@@ -142,8 +142,8 @@ __Day 17__
 
 __Day 18__
 
-ㆍ Hypothsis with one variable vs multi variables
-ㆍ Cost function
+ㆍ Hypothsis with one variable vs multi variables  
+ㆍ Cost function  
 ![1](https://user-images.githubusercontent.com/68415173/114004077-43369180-9899-11eb-94f3-a091919b6e3a.png)
-ㆍ Matrix multiplication
+ㆍ Matrix multiplication  
 ![2](https://user-images.githubusercontent.com/68415173/114004131-4fbaea00-9899-11eb-8bb5-2421ae539f0c.png)
