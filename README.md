@@ -147,3 +147,17 @@ __Day 18__
 ![1](https://user-images.githubusercontent.com/68415173/114004077-43369180-9899-11eb-94f3-a091919b6e3a.png)  
 ㆍ Matrix multiplication  
 ![2](https://user-images.githubusercontent.com/68415173/114004131-4fbaea00-9899-11eb-8bb5-2421ae539f0c.png)
+
+
+__Day 19__
+
+ㆍWatched and studied part of the video from the 'Machine learning for all'  
+ㆍCost function in pure python  
+![day19](https://user-images.githubusercontent.com/68415173/114171307-0f2da000-996f-11eb-8020-d7ed9ae4bf9c.png)  
+![day19-1](https://user-images.githubusercontent.com/68415173/114171315-13f25400-996f-11eb-8f69-54b2fb37fb40.png)  
+ㆍCost function in TensorFlow  
+![day19-2](https://user-images.githubusercontent.com/68415173/114171342-1ce32580-996f-11eb-9e36-0bfb660de21b.png)  
+![day19-3](https://user-images.githubusercontent.com/68415173/114171348-1fde1600-996f-11eb-99a2-7970cde68c6b.png)
+
+ 
+
