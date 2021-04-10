@@ -159,5 +159,9 @@ __Day 19__
 ![day19-2](https://user-images.githubusercontent.com/68415173/114171342-1ce32580-996f-11eb-9e36-0bfb660de21b.png)  
 ![day19-3](https://user-images.githubusercontent.com/68415173/114171348-1fde1600-996f-11eb-99a2-7970cde68c6b.png)
 
- 
+__Day 20__
+
+ㆍImplement gradient descent in tensorflow  
+![123](https://user-images.githubusercontent.com/68415173/114262814-072c3980-9a1d-11eb-9df3-e89938f1b7c1.png)  
+![1234](https://user-images.githubusercontent.com/68415173/114262816-085d6680-9a1d-11eb-9fcc-db02c13df656.png)  
 
