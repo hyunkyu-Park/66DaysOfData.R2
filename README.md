@@ -165,3 +165,18 @@ __Day 20__
 ![123](https://user-images.githubusercontent.com/68415173/114262814-072c3980-9a1d-11eb-9df3-e89938f1b7c1.png)  
 ![1234](https://user-images.githubusercontent.com/68415173/114262816-085d6680-9a1d-11eb-9fcc-db02c13df656.png)  
 
+__Day 21__
+
+ㆍDeep learning for all Lec 7  
+ㆍ Hypothesis using Matrix  
+![화면 캡처 2021-04-11 175845](https://user-images.githubusercontent.com/68415173/114299759-02888380-9af8-11eb-8210-76788f70c6f0.png)  
+https://www.youtube.com/watch?v=9l1YHo-pbf8&list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C&index=7  
+- Matrices are usually capitalized.  
+ㆍ Advantages of using matrices: No matter how many features and instances there are, it can be expressed in a simple formula called the product of the matrix.  
+- Matrices are usually capitalized.  
+ㆍ Advantages of using matrices: No matter how many features and instances there are, it can be expressed in a simple formula called the product of the matrix.  
+![화면 캡처 2021-04-11 185637](https://user-images.githubusercontent.com/68415173/114299778-1df38e80-9af8-11eb-894e-856171ad7d5b.png)  
+https://www.youtube.com/watch?v=9l1YHo-pbf8&list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C&index=7  
+
+
+
