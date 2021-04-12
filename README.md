@@ -178,5 +178,13 @@ https://www.youtube.com/watch?v=9l1YHo-pbf8&list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639
 ![화면 캡처 2021-04-11 185637](https://user-images.githubusercontent.com/68415173/114299778-1df38e80-9af8-11eb-894e-856171ad7d5b.png)  
 https://www.youtube.com/watch?v=9l1YHo-pbf8&list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C&index=7  
 
+__Day 22_
+
+ㆍDeep learning for all lecture 8  
+ㆍTried Multi-Variable Linear regression in tensorflow, but I barely understand the whole step.i should take a look once again.  
+![화면 캡처 2021-04-12 201522](https://user-images.githubusercontent.com/68415173/114386967-de4aa680-9bcc-11eb-9941-f6aeea92859d.png)
+![화면 캡처 2021-04-12 201558](https://user-images.githubusercontent.com/68415173/114386865-bbb88d80-9bcc-11eb-9e76-c1cfe7932534.png)  
+![화면 캡처 2021-04-12 201620](https://user-images.githubusercontent.com/68415173/114386869-bd825100-9bcc-11eb-9e77-6d8664d4ae13.png)  
+
 
 
