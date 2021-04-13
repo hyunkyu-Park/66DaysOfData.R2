@@ -186,5 +186,16 @@ __Day 22__
 ![화면 캡처 2021-04-12 201558](https://user-images.githubusercontent.com/68415173/114386865-bbb88d80-9bcc-11eb-9e76-c1cfe7932534.png)  
 ![화면 캡처 2021-04-12 201620](https://user-images.githubusercontent.com/68415173/114386869-bd825100-9bcc-11eb-9e77-6d8664d4ae13.png)  
 
+__Day 23__
+
+ㆍ Deep learning for all lecture 8  
+ㆍ Implemented Multi-Variable Linear regression in matrix form
+![1](https://user-images.githubusercontent.com/68415173/114517253-20312680-9c79-11eb-9533-9762b6d484b6.png)  
+![2](https://user-images.githubusercontent.com/68415173/114517255-20312680-9c79-11eb-9a11-ae8f1b8585a7.png)  
+![3](https://user-images.githubusercontent.com/68415173/114517240-1dcecc80-9c79-11eb-9828-d281938b6ed7.png)  
+![4](https://user-images.githubusercontent.com/68415173/114517242-1efff980-9c79-11eb-804b-dadc0ab85031.png)  
+![5](https://user-images.githubusercontent.com/68415173/114517248-1f989000-9c79-11eb-9191-9959ddd0722c.png)  
+![6](https://user-images.githubusercontent.com/68415173/114517251-1f989000-9c79-11eb-82be-dfffbfe6bcf8.png)  
+
 
 
