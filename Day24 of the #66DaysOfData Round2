@@ -1,0 +1,15 @@
+ㆍ Deep learning for all lecture 9  
+ㆍ Logistic Regression  
+- Classification: What is Binary(multi-class) Classification?  
+variable is either 0 or 1 (0: Positive, 1: Negative)  
+1) Exam: Pass or Fail  
+2) Spam: Not Spam or Spam  
+3) Face: Real or Fake  
+4: Tumor: Not Malignant or Malignant  
+ㆍTo start machine learning, you must encode variable [0, 1]  
+ㆍ Logistic vs Linear  
+
+# Python Code
+Logistic_Y = [[0], [1], [0], [0], [1], [1], [1]] # One Hot
+Linear_Y = [828.7124, 821.09812, 830.10239, 819.4781. 822.6129] # Numeric
+
