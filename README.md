@@ -206,13 +206,13 @@ variable is either 0 or 1 (0: Positive, 1: Negative)
 1) Exam: Pass or Fail  
 2) Spam: Not Spam or Spam  
 3) Face: Real or Fake  
-4: Tumor: Not Malignant or Malignant  
+4) Tumor: Not Malignant or Malignant  
 ㆍTo start machine learning, you must encode variable [0, 1]  
 ㆍ Logistic vs Linear  
 ![01](https://user-images.githubusercontent.com/68415173/114835331-6cf93680-9e0c-11eb-8be3-024a822f4ee2.png)  
 ![02](https://user-images.githubusercontent.com/68415173/114835326-6bc80980-9e0c-11eb-8325-7f442a0bec21.png)  
 
 ## Python Code
-Logistic_Y = [[0], [1], [0], [0], [1], [1], [1]] # One Hot
+Logistic_Y = [[0], [1], [0], [0], [1], [1], [1]] # One Hot  
 Linear_Y = [828.7124, 821.09812, 830.10239, 819.4781. 822.6129] # Numeric
 
