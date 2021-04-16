@@ -216,3 +216,7 @@ variable is either 0 or 1 (0: Positive, 1: Negative)
 Logistic_Y = [[0], [1], [0], [0], [1], [1], [1]] # One Hot  
 Linear_Y = [828.7124, 821.09812, 830.10239, 819.4781. 822.6129] # Numeric
 
+__Day 25__
+
+ㆍ Deep learning for all lecture 9.  
+ㆍ When using linear regression we did specific fuction. But start with binary classification, Y is only 0 or 1 So we need new function.
