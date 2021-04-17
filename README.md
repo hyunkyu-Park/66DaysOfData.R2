@@ -220,3 +220,9 @@ __Day 25__
 
 ㆍ Deep learning for all lecture 9.  
 ㆍ When using linear regression we did specific fuction. But start with binary classification, Y is only 0 or 1 So we need new function.
+
+__Day 26__
+
+ㆍ Deep learning for all lecture 9.  
+ㆍ Based on the x-value the linear function, theta, is used to obtain the linear value, and convert this linear value to a value between 0 and 1 by logistic function.  
+![1234567890](https://user-images.githubusercontent.com/68415173/115114190-dde54d80-9fc8-11eb-866e-8d98119f840e.png)
