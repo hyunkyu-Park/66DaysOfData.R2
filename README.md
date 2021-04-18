@@ -226,3 +226,10 @@ __Day 26__
 ㆍ Deep learning for all lecture 9.  
 ㆍ Based on the x-value the linear function, theta, is used to obtain the linear value, and convert this linear value to a value between 0 and 1 by logistic function.  
 ![1234567890](https://user-images.githubusercontent.com/68415173/115114190-dde54d80-9fc8-11eb-866e-8d98119f840e.png)
+
+__Day 27__
+
+ㆍ Solved Brute Force Algorithm problem named 'Decomposition total' from BAEKJOON Website  
+ㆍ Deep learning for all lecture 9  
+ㆍ Sigmoid(Logistic) function out value is between 0 and 1
+![sigmoid](https://user-images.githubusercontent.com/68415173/115132920-60105900-a03f-11eb-8def-2c24e76e7ae5.png)
