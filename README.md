@@ -233,3 +233,9 @@ __Day 27__
 ㆍ Deep learning for all lecture 9  
 ㆍ Sigmoid(Logistic) function out value is between 0 and 1
 ![sigmoid](https://user-images.githubusercontent.com/68415173/115132920-60105900-a03f-11eb-8def-2c24e76e7ae5.png)
+
+
+__Day 28__
+
+ㆍ Deep learning for all lecture 9  
+![1](https://user-images.githubusercontent.com/68415173/115200324-0e46fc00-a12f-11eb-9004-880b038abb52.png)
