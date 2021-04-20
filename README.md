@@ -239,3 +239,11 @@ __Day 28__
 
 ㆍ Deep learning for all lecture 9  
 ![1](https://user-images.githubusercontent.com/68415173/115200324-0e46fc00-a12f-11eb-9004-880b038abb52.png)
+
+
+__Day 29__
+
+ㆍ Deep learning for all lecture 10  
+![123](https://user-images.githubusercontent.com/68415173/115336926-0cd30d80-a1db-11eb-924a-49090a8a6d1a.png)  
+![1234](https://user-images.githubusercontent.com/68415173/115336933-10669480-a1db-11eb-9e32-06ffcdd3b248.png)
+
