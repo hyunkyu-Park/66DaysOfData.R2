@@ -247,3 +247,16 @@ __Day 29__
 ![123](https://user-images.githubusercontent.com/68415173/115336926-0cd30d80-a1db-11eb-924a-49090a8a6d1a.png)  
 ![1234](https://user-images.githubusercontent.com/68415173/115336933-10669480-a1db-11eb-9e32-06ffcdd3b248.png)
 
+__Day 31__
+
+ㆍ Deep learning for all lec 11  
+ㆍ Implemented Logistic Regression in tensorflow  
+ㆍ Logistic Regression is used to multi-classification or Binary such as 'True or False'  
+ㆍ Set datasets and drew to clearly understand our logistic model
+![22-0](https://user-images.githubusercontent.com/68415173/115712714-0ea1fa00-a3b0-11eb-8905-1020b2c6030e.png)  
+![22-1](https://user-images.githubusercontent.com/68415173/115712728-12ce1780-a3b0-11eb-9162-94eea7e2cb5f.png)  
+![22-2](https://user-images.githubusercontent.com/68415173/115712741-16619e80-a3b0-11eb-9abd-621b12ec8f52.png)
+
+
+
+
