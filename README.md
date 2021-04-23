@@ -265,5 +265,13 @@ __Day 31__
 ![22-2](https://user-images.githubusercontent.com/68415173/115712741-16619e80-a3b0-11eb-9abd-621b12ec8f52.png)
 
 
+__Day 32__
+
+ㆍ Deep learning for all lec 11  
+ㆍ Used tensorflow Eager  
+ㆍ Contained values to be learned through the Tensorflow data API  
+ㆍ Features, labels are data for real learning.  
+ㆍ W and B are Weight and Bias, which are used in models created through learning.  
+![4-23-0](https://user-images.githubusercontent.com/68415173/115833624-3a27f180-a44f-11eb-80de-298e2b99e044.png)
 
 
