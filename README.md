@@ -247,6 +247,13 @@ __Day 29__
 ![123](https://user-images.githubusercontent.com/68415173/115336926-0cd30d80-a1db-11eb-924a-49090a8a6d1a.png)  
 ![1234](https://user-images.githubusercontent.com/68415173/115336933-10669480-a1db-11eb-9e32-06ffcdd3b248.png)
 
+__Day 30__
+
+ㆍ Deep learning for all lecture 10  
+ㆍ By adding hypotheses and labels to the gradient tape of tensorflow, the Ross value is obtained. We find out how much the difference is between these ross values and use them in conjunction with the actual w(weight) value we have, so the value continues to change through a process called tape.gradient.  
+![12345](https://user-images.githubusercontent.com/68415173/115832264-a99ce180-a44d-11eb-8ea7-2005b17939b9.png)
+
+
 __Day 31__
 
 ㆍ Deep learning for all lec 11  
