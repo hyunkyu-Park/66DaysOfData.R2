@@ -1,0 +1,5 @@
+ㆍ Deep learning for all lec 11  
+ㆍ Used tensorflow Eager  
+ㆍ Contained values to be learned through the Tensorflow data API  
+ㆍ Features, labels are data for real learning.  
+ㆍ W and B are Weight and Bias, which are used in models created through learning.
