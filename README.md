@@ -275,3 +275,10 @@ __Day 32__
 ![4-23-0](https://user-images.githubusercontent.com/68415173/115833624-3a27f180-a44f-11eb-80de-298e2b99e044.png)
 
 
+__Day 33__
+
+ㆍ Deep learning for all lec 11  
+ㆍ Modified the code to implement logistic regression in tensorflow  
+ㆍ Set functions to get hypothesis and loss value(Cost)  
+![24-0](https://user-images.githubusercontent.com/68415173/115954058-d6262b80-a529-11eb-91f9-8368a8ba77d9.png)  
+![24-1](https://user-images.githubusercontent.com/68415173/115954063-db837600-a529-11eb-87b9-61e4721e6324.png)  
