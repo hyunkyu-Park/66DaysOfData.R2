@@ -282,3 +282,12 @@ __Day 33__
 ㆍ Set functions to get hypothesis and loss value(Cost)  
 ![24-0](https://user-images.githubusercontent.com/68415173/115954058-d6262b80-a529-11eb-91f9-8368a8ba77d9.png)  
 ![24-1](https://user-images.githubusercontent.com/68415173/115954063-db837600-a529-11eb-87b9-61e4721e6324.png)  
+
+
+__Day 34__
+
+ㆍ Deep learning for all lec 11  
+ㆍ Build functions to obtain gradient and accuracy score and set variable named optimizer  
+![25-0](https://user-images.githubusercontent.com/68415173/115981922-48eae180-a5d2-11eb-9179-8db44ed1f206.png)  
+![25-1](https://user-images.githubusercontent.com/68415173/115981924-4d16ff00-a5d2-11eb-9698-432b7d4e9659.png)  
+
