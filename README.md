@@ -291,3 +291,9 @@ __Day 34__
 ![25-0](https://user-images.githubusercontent.com/68415173/115981922-48eae180-a5d2-11eb-9179-8db44ed1f206.png)  
 ![25-1](https://user-images.githubusercontent.com/68415173/115981924-4d16ff00-a5d2-11eb-9698-432b7d4e9659.png)  
 
+
+__Day 35__
+
+ㆍ Deep learning for all lec 11  
+ㆍ The entire process, starting with X and dividing into boundaries of 0 and 1, is one component of the deep learning.  
+![26-1](https://user-images.githubusercontent.com/68415173/116047497-17941380-a6af-11eb-938d-5f167a1aa1e9.png)
