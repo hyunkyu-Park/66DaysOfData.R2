@@ -297,3 +297,14 @@ __Day 35__
 ㆍ Deep learning for all lec 11  
 ㆍ The entire process, starting with X and dividing into boundaries of 0 and 1, is one component of the deep learning.  
 ![26-1](https://user-images.githubusercontent.com/68415173/116047497-17941380-a6af-11eb-938d-5f167a1aa1e9.png)
+
+
+__Day 36__
+
+ㆍ Deep learning for all lec 12  
+ㆍ Softmax Regression  
+ㆍ The reason why we use Logistic Regression is to find hyper-plane that classifies values  
+ㆍ If you need to solve the problem of multinomial classification, you need to find hyperplanes until those divides all labels.  
+![27-0](https://user-images.githubusercontent.com/68415173/116230360-84340e80-a792-11eb-96cb-086ac70a4741.png)  
+![27-1](https://user-images.githubusercontent.com/68415173/116230372-88f8c280-a792-11eb-8928-0d2cb4551c2e.png)
+
