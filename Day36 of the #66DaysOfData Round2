@@ -1,0 +1,4 @@
+ㆍ Deep learning for all lec 12  
+ㆍ Softmax Regression  
+ㆍ The reason why we use Logistic Regression is to find hyper-plane that classifies values  
+ㆍ If you need to solve the problem of multinomial classification, you need to find hyperplanes until those divides all labels.
