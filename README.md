@@ -308,3 +308,13 @@ __Day 36__
 ![27-0](https://user-images.githubusercontent.com/68415173/116230360-84340e80-a792-11eb-96cb-086ac70a4741.png)  
 ![27-1](https://user-images.githubusercontent.com/68415173/116230372-88f8c280-a792-11eb-8928-0d2cb4551c2e.png)
 
+
+__Day 37__
+
+ㆍ Deep learning for all lec 13  
+ㆍ We can obtain probability values using transformed values greater than 0 and less than 1.  
+Then, one-hot encoding is applied to solve the problem by replacing the most probable value with 1 and the remaining values of 0.  
+![28-0](https://user-images.githubusercontent.com/68415173/116362514-155fbf80-a83d-11eb-9bf8-dd9d92b9390b.png)
+
+
+
