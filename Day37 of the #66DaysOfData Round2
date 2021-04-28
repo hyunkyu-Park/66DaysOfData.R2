@@ -1,0 +1,5 @@
+ㆍ Deep learning for all lec 13  
+ㆍ We can obtain probability values using transformed values greater than 0 and less than 1.  
+Then, one-hot encoding is applied to solve the problem by replacing the most probable value with 1 and the remaining values of 0.
+
+
