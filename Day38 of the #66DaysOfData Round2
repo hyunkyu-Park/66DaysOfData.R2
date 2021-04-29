@@ -1,0 +1,6 @@
+ㆍ Deep learning for all lec 13  
+ㆍ Cross Entropy cost function  
+ㆍ We need to compare real value and prediction value to get Cost.  
+In Softmax classifier, -log function is used for prediction value and this value would be multiplied by real value.  
+ㆍFor example, in the picture below, the first prediction value[0, 1] is the same as the real value[0, 1] and -log([0, 1]) would be [∞, 0].  
+As a result, real value[0, 1] multiplies by [∞, 0] equals [0, 0]. On the other hand, the second prediction value[1, 0] prints out [0, ∞] and this would get the final value[0, ∞]
