@@ -317,4 +317,11 @@ Then, one-hot encoding is applied to solve the problem by replacing the most pro
 ![28-0](https://user-images.githubusercontent.com/68415173/116362514-155fbf80-a83d-11eb-9bf8-dd9d92b9390b.png)
 
 
+__Day 38__
+
+ㆍ Deep learning for all lec 13  
+ㆍ Cross Entropy cost function  
+ㆍ We need to compare real value and prediction value to get Cost. In Softmax classifier, -log function is used for prediction value and this value would be multiplied by real value.  
+ㆍFor example, in the picture below, the first prediction value[0, 1] is the same as the real value[0, 1] and -log([0, 1]) would be [∞, 0]. As a result, real value[0, 1] multiplies by [∞, 0] equals [0, 0]. On the other hand, the second prediction value[1, 0] prints out [0, ∞] and this would get the final value[0, ∞]
+![29-0](https://user-images.githubusercontent.com/68415173/116548942-de1e0b00-a92f-11eb-963d-d88ea89b4043.png)
 
