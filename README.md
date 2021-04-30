@@ -325,3 +325,11 @@ __Day 38__
 ㆍFor example, in the picture below, the first prediction value[0, 1] is the same as the real value[0, 1] and -log([0, 1]) would be [∞, 0]. As a result, real value[0, 1] multiplies by [∞, 0] equals [0, 0]. On the other hand, the second prediction value[1, 0] prints out [0, ∞] and this would get the final value[0, ∞]
 ![29-0](https://user-images.githubusercontent.com/68415173/116548942-de1e0b00-a92f-11eb-963d-d88ea89b4043.png)
 
+
+__Day 39__
+
+ㆍ Deep learning for all lec 13  
+ㆍ The lecturer asked me to find differences between Logistic Cost vs cross entropy. I was ashamed when I first heard the question because I haven't thought about it and that means I didn't really understand the concepts. So I studied logistic cost again.
+![30-0](https://user-images.githubusercontent.com/68415173/116684840-72e63e80-a9ec-11eb-9b55-f81f35f6f710.png)  
+
+
