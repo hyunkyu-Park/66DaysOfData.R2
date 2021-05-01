@@ -332,4 +332,11 @@ __Day 39__
 ㆍ The lecturer asked me to find differences between Logistic Cost vs cross entropy. I was ashamed when I first heard the question because I haven't thought about it and that means I didn't really understand the concepts. So I studied logistic cost again.
 ![30-0](https://user-images.githubusercontent.com/68415173/116684840-72e63e80-a9ec-11eb-9b55-f81f35f6f710.png)  
 
+__Day 40__
 
+ㆍ In the meantime, I have taken the 'deep learning for everyone' season 2 courses, but with my short knowledge, I decided to combine them with season 1. So I started to watch the season 1 lectures as well.  
+ㆍ Deep learning for all season 1 - 1  
+ㆍ The goals of the course  
+1) Basic understadning of machine learning algorithms: Linear Regression, Logistic Regression(classification)  
+2) Deep learning: Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks  
+ㆍ Solve your problem using machine learning tools such as tensorflow and python.
