@@ -340,3 +340,10 @@ __Day 40__
 1) Basic understadning of machine learning algorithms: Linear Regression, Logistic Regression(classification)  
 2) Deep learning: Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks  
 ㆍ Solve your problem using machine learning tools such as tensorflow and python.
+
+
+__Day 41__
+
+ㆍ Deep learning for all season 1 lecture 2~4  
+ㆍ Machine Learning and Deep Learning Overview  
+ㆍ Hypothesis and Cost of the Linear Regression  
