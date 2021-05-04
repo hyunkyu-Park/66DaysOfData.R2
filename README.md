@@ -347,3 +347,16 @@ __Day 41__
 ㆍ Deep learning for all season 1 lecture 2~4  
 ㆍ Machine Learning and Deep Learning Overview  
 ㆍ Hypothesis and Cost of the Linear Regression  
+
+
+__Day 42__
+
+ㆍ Deep learning for all season 1 lecture 5  
+ㆍ Implement simple Linear Regression in Tensorflow  
+ㆍ 3 Steps  
+- Build graph using Tensorflow operations  
+- Feed data and run graph (operation) sess.run(op, feed_dict={x:x_data})  
+- update variables in the graph (and return values)  
+![04-0](https://user-images.githubusercontent.com/68415173/116979575-222e5880-ad00-11eb-86a8-ff67805f3f56.png)  
+![04-1](https://user-images.githubusercontent.com/68415173/116979604-2a869380-ad00-11eb-8e21-34838363a820.png)
+
