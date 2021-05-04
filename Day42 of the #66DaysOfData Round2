@@ -1,0 +1,6 @@
+ㆍ Deep learning for all season 1 lecture 5  
+ㆍ Implement simple Linear Regression in Tensorflow  
+ㆍ 3 Steps  
+- Build graph using Tensorflow operations  
+- Feed data and run graph (operation) sess.run(op, feed_dict={x:x_data})  
+- update variables in the graph (and return values)
