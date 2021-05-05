@@ -360,3 +360,9 @@ __Day 42__
 ![04-0](https://user-images.githubusercontent.com/68415173/116979575-222e5880-ad00-11eb-86a8-ff67805f3f56.png)  
 ![04-1](https://user-images.githubusercontent.com/68415173/116979604-2a869380-ad00-11eb-8e21-34838363a820.png)
 
+
+__Day 43__
+
+ㆍ Deep learning for all season 1 lecture 6  
+ㆍ Principle of Cost Minimization Algorithm for Linear Regression  
+ㆍ Cost function must be convex to find proper W, b values. if not, W, b values vary each time
