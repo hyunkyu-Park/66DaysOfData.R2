@@ -366,3 +366,10 @@ __Day 43__
 ㆍ Deep learning for all season 1 lecture 6  
 ㆍ Principle of Cost Minimization Algorithm for Linear Regression  
 ㆍ Cost function must be convex to find proper W, b values. if not, W, b values vary each time
+
+
+__Day 44__
+
+ㆍ I have finished 'Building AI' of Elements of AI in April, but I did not apply for official certification. However, I thought it would be better to get a certificate issued, so I applied and got it issued.  
+ㆍ Prepared a presentation about the optimization to announce to team members this Saturday.  
+![building ai 자격증](https://user-images.githubusercontent.com/68415173/117293171-0c5d9680-aeac-11eb-80bd-3d886f48d442.png)
