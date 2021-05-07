@@ -373,3 +373,11 @@ __Day 44__
 ㆍ I have finished 'Building AI' of Elements of AI in April, but I did not apply for official certification. However, I thought it would be better to get a certificate issued, so I applied and got it issued.  
 ㆍ Prepared a presentation about the optimization to announce to team members this Saturday.  
 ![building ai 자격증](https://user-images.githubusercontent.com/68415173/117293171-0c5d9680-aeac-11eb-80bd-3d886f48d442.png)
+
+
+__Day 45__
+
+ㆍ Deep learning for all season 1 lecture 7  
+ㆍ Followed lecture and studied the difference between manually minimizing the cost and minimizing using the 'tensorflow'. Although there was an error in the actual execution due to different tensorflow versions, I will try to modify the code to the latest version tomorrow and implement again.  
+![7-0](https://user-images.githubusercontent.com/68415173/117386450-e5da4280-af21-11eb-98ab-1a8f3a36abcd.png)
+
