@@ -381,3 +381,13 @@ __Day 45__
 ㆍ Followed lecture and studied the difference between manually minimizing the cost and minimizing using the 'tensorflow'. Although there was an error in the actual execution due to different tensorflow versions, I will try to modify the code to the latest version tomorrow and implement again.  
 ![7-0](https://user-images.githubusercontent.com/68415173/117386450-e5da4280-af21-11eb-98ab-1a8f3a36abcd.png)
 
+
+__Day 46__
+
+ㆍ Deep learning for all season 1 lecture 7  
+ㆍ As I modifies the Minimizing Cost codes, I could learn a few things  
+- tf.set_random_seed(seed) has changed to tf.random.set_seed(seed) in TensorFlow 2.  
+- tf.placeholder and tf.Session has been removed in TensorFlow 2.   
+![08-0](https://user-images.githubusercontent.com/68415173/117533771-9717d000-b029-11eb-84f3-6169fe383f21.png)  
+![08-1](https://user-images.githubusercontent.com/68415173/117533775-9aab5700-b029-11eb-9f36-67bf62ab9e71.png)
+
