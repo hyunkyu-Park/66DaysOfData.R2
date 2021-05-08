@@ -1,0 +1,4 @@
+ㆍ Deep learning for all season 1 lecture 7  
+ㆍ As I modifies the Minimizing Cost codes, I could learn a few things  
+- tf.set_random_seed(seed) has changed to tf.random.set_seed(seed) in TensorFlow 2.  
+- tf.placeholder and tf.Session has been removed in TensorFlow 2.
