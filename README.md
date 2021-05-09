@@ -391,3 +391,9 @@ __Day 46__
 ![08-0](https://user-images.githubusercontent.com/68415173/117533771-9717d000-b029-11eb-84f3-6169fe383f21.png)  
 ![08-1](https://user-images.githubusercontent.com/68415173/117533775-9aab5700-b029-11eb-9f36-67bf62ab9e71.png)
 
+
+__Day 47__
+
+ㆍ Implemented the codes following the 'deep learning for all season 2 lecture' to compare tensorflow codes by version  
+
+https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/Simple_Linear_Regression.ipynb
