@@ -395,5 +395,10 @@ __Day 46__
 __Day 47__
 
 ㆍ Implemented the codes following the 'deep learning for all season 2 lecture' to compare tensorflow codes by version  
-
 https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/Simple_Linear_Regression.ipynb
+
+__Day 48__
+
+ㆍ Deep learning for all season 1 lecture 8  
+ㆍ What if we have 3 inputs in regression? We need to figure out 'W' value for each input andit would produce three 'w' values.  
+ㆍ Advantages of using matrices.  
