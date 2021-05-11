@@ -402,3 +402,12 @@ __Day 48__
 ㆍ Deep learning for all season 1 lecture 8  
 ㆍ What if we have 3 inputs in regression? We need to figure out 'W' value for each input andit would produce three 'w' values.  
 ㆍ Advantages of using matrices.  
+
+
+__Day 49__
+
+
+ㆍ Deep learning for all season 1 lecture 9  
+ㆍ Implemented multi-variable regression in tensorflow following the season 1 lecture  
+
+https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/Multi_variable_regression.ipynb
