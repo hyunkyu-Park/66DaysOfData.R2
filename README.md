@@ -411,3 +411,8 @@ __Day 49__
 ㆍ Implemented multi-variable regression in tensorflow following the season 1 lecture  
 
 https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/Multi_variable_regression.ipynb
+
+
+__Day 50__
+
+ㆍ Watched the 'Deep learning for all season 2 lecture' about multi-variable regression to compare with season 1 lecture's codes.  
