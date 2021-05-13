@@ -416,3 +416,10 @@ https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/Multi_variable_r
 __Day 50__
 
 ㆍ Watched the 'Deep learning for all season 2 lecture' about multi-variable regression to compare with season 1 lecture's codes.  
+
+
+__Day 51__
+
+ㆍ Implemented multi-variable Linear regression codes following the 'deep learning for all season 2 lecture' to compare tensorflow codes by version  
+
+https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/Multi_variable_regression.ipynb
