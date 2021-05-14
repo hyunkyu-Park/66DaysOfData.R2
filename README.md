@@ -423,3 +423,10 @@ __Day 51__
 ㆍ Implemented multi-variable Linear regression codes following the 'deep learning for all season 2 lecture' to compare tensorflow codes by version  
 
 https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/Multi_variable_regression.ipynb
+
+
+__Day 52__
+
+ㆍ Studied Deep learning for all season 1 lecture 10, 11  
+ㆍ Studied why logistic regression arose  
+ㆍ Define hypothesis function of Logistic Regression
