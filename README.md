@@ -430,3 +430,7 @@ __Day 52__
 ㆍ Studied Deep learning for all season 1 lecture 10, 11  
 ㆍ Studied why logistic regression arose  
 ㆍ Define hypothesis function of Logistic Regression
+
+__Day 53__
+
+ㆍ Watched the 'Deep learning for all season 2 lecture' about Logistic regression to compare with season 1 lecture's codes. As far as I see, season 1 lectures are bit more natural and catchy, on the other hand, season 2 lectures feels more like releasing one's knowledge than a lecture. Of course, it is good that the style of the two lectures are different.
