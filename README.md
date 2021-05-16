@@ -434,3 +434,10 @@ __Day 52__
 __Day 53__
 
 ㆍ Watched the 'Deep learning for all season 2 lecture' about Logistic regression to compare with season 1 lecture's codes. As far as I see, season 1 lectures are bit more natural and catchy, on the other hand, season 2 lectures feels more like releasing one's knowledge than a lecture. Of course, it is good that the style of the two lectures are different.
+
+
+__Day 54__
+
+ㆍ Studied Deep learning for all season 1 lecture 12  
+ㆍ Cost function of Logistic Regression  
+![image](https://user-images.githubusercontent.com/68415173/118396845-5a348480-b68c-11eb-87af-929771a4f911.png)
