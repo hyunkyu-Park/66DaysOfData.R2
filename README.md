@@ -441,3 +441,10 @@ __Day 54__
 ㆍ Studied Deep learning for all season 1 lecture 12  
 ㆍ Cost function of Logistic Regression  
 ![image](https://user-images.githubusercontent.com/68415173/118396845-5a348480-b68c-11eb-87af-929771a4f911.png)
+
+
+__Day 55__
+
+ㆍ Studied Deep learning for all season 1 lecture 13  
+ㆍ Implemented Logistic Classification in Tensorflow version 2 following the lecture and codes  
+https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/Logistic_%EF%BB%BFClassification.ipynb
