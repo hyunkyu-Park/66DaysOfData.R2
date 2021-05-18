@@ -448,3 +448,8 @@ __Day 55__
 ㆍ Studied Deep learning for all season 1 lecture 13  
 ㆍ Implemented Logistic Classification in Tensorflow version 2 following the lecture and codes  
 https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/Logistic_%EF%BB%BFClassification.ipynb
+
+__Day 56__
+
+ㆍ Studied Deep learning for all season 1 lecture 14  
+ㆍ Basic concept of Softmax Regression - Multinomial classification
