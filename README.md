@@ -453,3 +453,9 @@ __Day 56__
 
 ㆍ Studied Deep learning for all season 1 lecture 14  
 ㆍ Basic concept of Softmax Regression - Multinomial classification
+
+__Day 57__
+
+ㆍ Studied Deep learning for all season 1 lecture 15  
+ㆍ Cost function of Softmax classifier - Sigmoid, Softmax, One-Hot Encoding, Cross-Entropy  
+![18-0](https://user-images.githubusercontent.com/68415173/118823718-26f42e80-b8f4-11eb-8e69-2fa93eee3224.png)  
