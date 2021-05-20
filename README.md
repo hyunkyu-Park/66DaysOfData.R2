@@ -459,3 +459,13 @@ __Day 57__
 ㆍ Studied Deep learning for all season 1 lecture 15  
 ㆍ Cost function of Softmax classifier - Sigmoid, Softmax, One-Hot Encoding, Cross-Entropy  
 ![18-0](https://user-images.githubusercontent.com/68415173/118823718-26f42e80-b8f4-11eb-8e69-2fa93eee3224.png)  
+
+
+__Day 58__
+
+ㆍ Studied Deep learning for all season 1 lecture 15  
+ㆍ Cross Entropy - Cost function  
+ㆍ Compared Logistic Cost with cross entropy: In fact these two are the same thing
+![20-0](https://user-images.githubusercontent.com/68415173/118942181-72a6e680-b98d-11eb-837d-6dc8c1cd0524.png)  
+![20-1](https://user-images.githubusercontent.com/68415173/118942203-763a6d80-b98d-11eb-8af2-a5917c31ed4c.png)  
+
