@@ -469,3 +469,8 @@ __Day 58__
 ![20-0](https://user-images.githubusercontent.com/68415173/118942181-72a6e680-b98d-11eb-837d-6dc8c1cd0524.png)  
 ![20-1](https://user-images.githubusercontent.com/68415173/118942203-763a6d80-b98d-11eb-8af2-a5917c31ed4c.png)  
 
+__Day 59__
+
+ㆍ Studied Deep learning for all season 1 lecture 15, 16  
+ㆍ Softmax classification is very useful when predicting multiple classes.  
+ㆍ Tried to implement Softmax classification in Tensorflow version 2 following the lecture and codes, but I have not finished it yet. I'll finish it and upload at my Github tomorrow.
