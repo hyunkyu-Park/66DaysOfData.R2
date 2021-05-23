@@ -474,3 +474,9 @@ __Day 59__
 ㆍ Studied Deep learning for all season 1 lecture 15, 16  
 ㆍ Softmax classification is very useful when predicting multiple classes.  
 ㆍ Tried to implement Softmax classification in Tensorflow version 2 following the lecture and codes, but I have not finished it yet. I'll finish it and upload at my Github tomorrow.
+
+__Day 60__
+
+ㆍ Studied Deep learning for all season 1 lecture 16  
+ㆍ Tried to implement Softmax classification in Tensorflow version 2 following the lecture and codes  
+https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/Softmax_classification.ipynb
