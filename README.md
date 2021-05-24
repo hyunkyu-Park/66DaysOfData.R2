@@ -480,3 +480,12 @@ __Day 60__
 ㆍ Studied Deep learning for all season 1 lecture 16  
 ㆍ Tried to implement Softmax classification in Tensorflow version 2 following the lecture and codes  
 https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/Softmax_classification.ipynb
+
+__Day 61__
+
+ㆍ Studied Deep learning for all season 1 lecture 18  
+ㆍ Leaning rate(overshooting)  
+ㆍ Try several learning rates  
+- Observe the cost function  
+- Check it goes down in a reasonable rate  
+ㆍ Data preprocessing for gradient descent - normalized data
