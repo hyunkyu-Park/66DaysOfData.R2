@@ -485,7 +485,7 @@ __Day 61__
 
 ㆍ Studied Deep learning for all season 1 lecture 18  
 ㆍ Leaning rate(overshooting)  
-ㆍ Try several learning rates  
+ㆍ Try several learning rates
 - Observe the cost function  
-- Check it goes down in a reasonable rate  
+- Check it goes down in a reasonable rate    
 ㆍ Data preprocessing for gradient descent - normalized data
