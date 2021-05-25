@@ -489,3 +489,15 @@ __Day 61__
  -Observe the cost function  
  -Check it goes down in a reasonable rate    
 ㆍ Data preprocessing for gradient descent - normalized data
+
+__Day 62__
+
+ㆍ Studied Deep learning for all season 1 lecture 18  
+ㆍ Standardization  
+ㆍ Overfitting  
+ -Our model is very good with training data set (with memorization)  
+ -Not good at test dataset or in real use  
+ㆍ Solution for overfitting  
+ -More training data!  
+ -Reduce the number of features  
+ -Regularization  
