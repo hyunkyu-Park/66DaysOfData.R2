@@ -501,3 +501,9 @@ __Day 62__
  -More training data!  
  -Reduce the number of features  
  -Regularization  
+
+__Day 63__
+
+ㆍ Studied Deep learning for all season 1 lecture 18  
+ㆍ Regularization - Let's not have too big numbers in the weight  
+ㆍ High value of weight causes overfitting. To solve this problem, we make the weight value smaller
