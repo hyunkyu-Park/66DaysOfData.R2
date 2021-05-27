@@ -1,0 +1,5 @@
+ㆍ Studied Deep learning for all season 1 lecture 19  
+ㆍ Training / Test data sets  
+ㆍ Training(Training, Validation), and test sets  
+ㆍ Our model is going to study with a training dataset, and use a validation set to adjust the learning rate alpha(α), and the lambda(λ) constant used for regularization  
+ㆍ Accuracy
