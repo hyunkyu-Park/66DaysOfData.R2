@@ -507,3 +507,11 @@ __Day 63__
 ㆍ Studied Deep learning for all season 1 lecture 18  
 ㆍ Regularization - Let's not have too big numbers in the weight  
 ㆍ High value of weight causes overfitting. To solve this problem, we make the weight value smaller
+
+__Day 64__
+
+ㆍ Studied Deep learning for all season 1 lecture 19  
+ㆍ Training / Test data sets  
+ㆍ Training(Training, Validation), and test sets  
+ㆍ Our model is going to study with a training dataset, and use a validation set to adjust the learning rate alpha(α), and the lambda(λ) constant used for regularization  
+ㆍ Accuracy
