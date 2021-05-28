@@ -515,3 +515,11 @@ __Day 64__
 ㆍ Training(Training, Validation), and test sets  
 ㆍ Our model is going to study with a training dataset, and use a validation set to adjust the learning rate alpha(α), and the lambda(λ) constant used for regularization  
 ㆍ Accuracy
+
+__Day 65__
+
+ㆍ Studied Deep learning for all season 1 lecture 20  
+ㆍ Implemented example datasets to understand training/test dataset, learning rate, and normalization  
+ㆍ If we use data without any scaling, it would lead weird prediction values
+
+https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/training_test_dataset%2C_learning_rate%2C_and_normalization.ipynb
