@@ -523,3 +523,10 @@ __Day 65__
 ㆍ If we use data without any scaling, it would lead weird prediction values
 
 https://github.com/hyunkyu-Park/Deep-Learning-For-All/blob/main/training_test_dataset%2C_learning_rate%2C_and_normalization.ipynb
+
+__Day 66__
+
+ㆍ At the end of this 66-day challenge, I have a lot on my mind. This second challenge began in elementary, middle and high schools to teach children about machine learning and deep learning algorithms and to study again from the basics so that they could answer the questions they were asked proudly. It was good to have a positive habit of studying every day, but I try not to proceed with the third challenge because I feel like I'm stuck here and can't do blog activities properly. Instead, I plan to upload contents that I am going to organize while studying algorithms. I appreciate to 'Ken Jee' for opening the campaign to make good habits for 66 days and applaud me for working hard  
+ㆍ Studied Deep learning for all season 1 lecture 21  
+ㆍ Basic concepts of deep learning  
+ㆍ The beginning of deep learning, the xor problem, and history
